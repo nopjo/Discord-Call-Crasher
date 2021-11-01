@@ -16,5 +16,4 @@ There will be a few things you will need in order to run this program on your ma
 # Running The Crasher
 Open crash.py, it will ask you for your Discord Token. You then need to get the Channel ID of the user or group chat channel. To do that open Discord on your browser and click the user or group chat on the 'direct messages' list. Then in the URL it will show the Channel ID it will look like this 'https://discord.com/channels/@me/xxxxxxxxxxxxxx'. Copy ONLY the ID not the entire URL. Finally you can enter the amount of requests you want to send, I would recommended 1000 but if you want to crash the call for a long time do 10000+.
 
-# Help
-https://discord.gg/ZgzkVdy5TB
+# Help - https://discord.gg/ZgzkVdy5TB

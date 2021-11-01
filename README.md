@@ -9,3 +9,6 @@ There will be a few things you will need in order to run this program on your ma
 2. Python 3+
    - You will need to install Python 3.x from the Python website. [Click here for latest version.](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)  
    Once it is installed, you will need to open the setup and on the first page click the box that says "ADD PYTHON TO PATH". This is crucial because it ensures that you will have pip.
+
+3. Downloading Python Packages
+   - Open setup.py

@@ -12,3 +12,5 @@ There will be a few things you will need in order to run this program on your ma
 
 3. Downloading Python Packages
    - Open setup.py
+
+# Running The Crasher

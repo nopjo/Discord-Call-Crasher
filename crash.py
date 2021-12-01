@@ -1,4 +1,4 @@
-import requests, os, random, threading, time, sys, getpass
+import requests, os, random, threading, time, sys
 from time import strftime, gmtime, time, sleep
 
 
@@ -13,7 +13,7 @@ class Crasher:
         self.lock = threading.Lock()
 
         write("> Discord Token (Will Be Invisible When Inputted): ")
-        self.token = str(getpass.getpass(''))
+        self.token = str(input())
 
         write("> Channel ID: ")
         self.id = input().strip()

@@ -12,7 +12,7 @@ class Crasher:
         self.added = 0
         self.lock = threading.Lock()
 
-        write("> Discord Token (Will Be Invisible When Inputted): ")
+        write("> Discord Token: ")
         self.token = str(input())
 
         write("> Channel ID: ")

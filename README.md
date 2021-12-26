@@ -1,5 +1,5 @@
 # Discord-Call-Crasher
-The Fasted Proxyless Multi-Threaded Discord Call Crasher (Created By Jonah)
+Proxyless Discord Call Crasher (Created By Jonah)
 
 # Requirements / Setting up
 There will be a few things you will need in order to run this program on your machine.
